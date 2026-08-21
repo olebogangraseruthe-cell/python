@@ -1,0 +1,10 @@
+name="jason"
+print(name)
+name="\nmia"
+print(name)
+name="\tjames"
+print(name)
+name="\tamo\n"
+print(name.strip())
+print(name.lstrip())
+print(name.rstrip())
